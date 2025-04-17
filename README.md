@@ -5,14 +5,13 @@
 <p><img align="right" src="Purple Computer.png" alt="adam-pw" /></p>
 
 <p align="left">
-    - 💻 Estudante de Programação<br>
-    - 📚 Apaixonado por leitura<br>
-    - 🌱 Apaixonado por Tecnologia<br>
+    - 💻 Desenvolvedor Java | Spring Boot | SQL Server | AWS<br>
+    - 🚀 Apaixonado por Tecnologia<br>
     - 👥 Desejo ávido por aprender e ajudar os outros</p>
 
-
-## 👨‍💻
+##
 [![My Skills](https://skillicons.dev/icons?i=java,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,gitlab)](https://skillicons.dev)<br><br>
 
